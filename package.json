@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "firebase": "^9.12.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "name": "bcl-apr-node-js",
+  "version": "1.0.0",
+  "description": "Aprendiendo NojeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcalvetty/nodejs2023.git"
+  },
+  "keywords": [
+    "aprendiendo",
+    "nodejs",
+    "español"
+  ],
+  "author": "GECN-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcalvetty/nodejs2023/issues"
+  },
+  "homepage": "https://github.com/gcalvetty/nodejs2023#readme"
+}
